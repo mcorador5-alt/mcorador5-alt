@@ -2,7 +2,7 @@
 
 💻 Estudiante de programación apasionado por el desarrollo de aplicaciones
 🚀 Enfocado en tecnologías como C#, SQL y .NET
-📚 Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo backend
+📚 Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo 
 
 ---
 
